@@ -1,5 +1,5 @@
 # Assignemnet for Coursera course: "Getting and Cleaning Data" Week 4
-This repo contains two scripts:
+This repo contains two scripts and a CodeBook:
 
 **downloadAndUnzipDataset.R**
 This script is used to download and unzip the file containing the dataset. Both the archive and the unziped data are stored in the **./data** folder.
@@ -12,3 +12,6 @@ This script uses the data stored in the **./data** folder. The following steps a
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 6. Save this data set
+
+**CodeBook.md**
+This file contains code book to describes the variables, the data, and any transformations or work that were performed to clean up the data.
