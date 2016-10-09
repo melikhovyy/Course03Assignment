@@ -1,5 +1,5 @@
 # Assignemnet for Coursera course: "Getting and Cleaning Data" Week 4
-This repo contains two scripts and a CodeBook:
+This repo contains two scripts, a CodeBook, a resultant tidy data set, and a file containg a list of columns:
 
 **downloadAndUnzipDataset.R**
 This script is used to download and unzip the file containing the dataset. Both the archive and the unziped data are stored in the **./data** folder.
@@ -15,3 +15,9 @@ This script uses the data stored in the **./data** folder. The following steps a
 
 **CodeBook.md**
 This file contains code book to describes the variables, the data, and any transformations or work that were performed to clean up the data.
+
+**ATidyDataset.csv**
+This file contains a resultant tidy data set.
+
+**columnNames.txt**
+This file containg a list of columns to be used with the resultant tidy data set.
