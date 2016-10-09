@@ -1,10 +1,10 @@
 # Assignemnet for Coursera course: "Getting and Cleaning Data" Week 4
 This repo contains two scripts:
 
-<downloadAndUnzipDataset.R>
+**downloadAndUnzipDataset.R**
 This script is used to download and unzip the file containing the dataset. Both the archive and the unziped data are stored in the <./data> foler.
 
-<run_analysis.R>
+**run_analysis.R**
 This script uses the data stored in the <./data> folder. The following steps are applied to the data:
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement
